@@ -1,0 +1,139 @@
+com/dnive/agvclient/zxing/camera/AutoFocusManager.java
+ com.dnive.agvclient.zxing.camera.AutoFocusManager
+ com.dnive.agvclient.zxing.camera.AutoFocusManager$1
+ com.dnive.agvclient.zxing.camera.AutoFocusManager$AutoFocusTask
+com/dnive/agvclient/zxing/decode/DecodeThread.java
+ com.dnive.agvclient.zxing.decode.DecodeThread
+com/dnive/agvclient/zxing/android/FinishListener.java
+ com.dnive.agvclient.zxing.android.FinishListener
+com/dnive/agvclient/tools/StrToHex.java
+ com.dnive.agvclient.tools.StrToHex
+com/dnive/agvclient/view/RockerView.java
+ com.dnive.agvclient.view.RockerView
+ com.dnive.agvclient.view.RockerView$1
+ com.dnive.agvclient.view.RockerView$CallBackMode
+ com.dnive.agvclient.view.RockerView$Direction
+ com.dnive.agvclient.view.RockerView$DirectionMode
+ com.dnive.agvclient.view.RockerView$OnAngleChangeListener
+ com.dnive.agvclient.view.RockerView$OnShakeListener
+com/dnive/agvclient/activity/FragmentActivity.java
+ com.dnive.agvclient.activity.FragmentActivity
+com/dnive/agvclient/zxing/camera/CameraManager.java
+ com.dnive.agvclient.zxing.camera.CameraManager
+com/dnive/agvclient/activity/MainActivity2.java
+ com.dnive.agvclient.activity.MainActivity2
+ com.dnive.agvclient.activity.MainActivity2$1
+ com.dnive.agvclient.activity.MainActivity2$2
+ com.dnive.agvclient.activity.MainActivity2$3
+ com.dnive.agvclient.activity.MainActivity2$4
+ com.dnive.agvclient.activity.MainActivity2$5
+ com.dnive.agvclient.activity.MainActivity2$6
+ com.dnive.agvclient.activity.MainActivity2$7
+ com.dnive.agvclient.activity.MainActivity2$MyBroadcastReceiver
+ com.dnive.agvclient.activity.MainActivity2$MyHandler
+ com.dnive.agvclient.activity.MainActivity2$WifiBroadcastReceiver
+com/dnive/agvclient/tools/AutoUpdater.java
+ com.dnive.agvclient.tools.AutoUpdater
+ com.dnive.agvclient.tools.AutoUpdater$1
+ com.dnive.agvclient.tools.AutoUpdater$2
+ com.dnive.agvclient.tools.AutoUpdater$3
+ com.dnive.agvclient.tools.AutoUpdater$4
+ com.dnive.agvclient.tools.AutoUpdater$5
+ com.dnive.agvclient.tools.AutoUpdater$6
+com/dnive/agvclient/zxing/android/BeepManager.java
+ com.dnive.agvclient.zxing.android.BeepManager
+com/dnive/agvclient/zxing/view/ViewfinderView.java
+ com.dnive.agvclient.zxing.view.ViewfinderView
+com/dnive/agvclient/activity/UpdataActivity.java
+ com.dnive.agvclient.activity.UpdataActivity
+ com.dnive.agvclient.activity.UpdataActivity$1
+ com.dnive.agvclient.activity.UpdataActivity$2
+ com.dnive.agvclient.activity.UpdataActivity$3
+com/dnive/agvclient/zxing/android/CaptureActivity.java
+ com.dnive.agvclient.zxing.android.CaptureActivity
+ com.dnive.agvclient.zxing.android.CaptureActivity$1
+com/dnive/agvclient/zxing/view/ViewfinderResultPointCallback.java
+ com.dnive.agvclient.zxing.view.ViewfinderResultPointCallback
+com/dnive/agvclient/zxing/android/PreferencesActivity.java
+ com.dnive.agvclient.zxing.android.PreferencesActivity
+com/dnive/agvclient/zxing/camera/PreviewCallback.java
+ com.dnive.agvclient.zxing.camera.PreviewCallback
+com/dnive/agvclient/activity/WelcomeActivity.java
+ com.dnive.agvclient.activity.WelcomeActivity
+ com.dnive.agvclient.activity.WelcomeActivity$1
+com/dnive/agvclient/zxing/decode/DecodeHandler.java
+ com.dnive.agvclient.zxing.decode.DecodeHandler
+com/dnive/agvclient/zxing/camera/CameraConfigurationUtils.java
+ com.dnive.agvclient.zxing.camera.CameraConfigurationUtils
+ com.dnive.agvclient.zxing.camera.CameraConfigurationUtils$1
+com/dnive/agvclient/tools/PermissionsChecker.java
+ com.dnive.agvclient.tools.PermissionsChecker
+com/dnive/agvclient/zxing/android/Intents.java
+ com.dnive.agvclient.zxing.android.Intents
+ com.dnive.agvclient.zxing.android.Intents$Encode
+ com.dnive.agvclient.zxing.android.Intents$History
+ com.dnive.agvclient.zxing.android.Intents$Scan
+ com.dnive.agvclient.zxing.android.Intents$SearchBookContents
+ com.dnive.agvclient.zxing.android.Intents$Share
+ com.dnive.agvclient.zxing.android.Intents$WifiConnect
+com/dnive/agvclient/activity/s.java
+ com.dnive.agvclient.activity.s
+ com.dnive.agvclient.activity.s$1
+ com.dnive.agvclient.activity.s$2
+ com.dnive.agvclient.activity.s$3
+ com.dnive.agvclient.activity.s$4
+ com.dnive.agvclient.activity.s$5
+ com.dnive.agvclient.activity.s$6
+ com.dnive.agvclient.activity.s$7
+ com.dnive.agvclient.activity.s$8
+ com.dnive.agvclient.activity.s$C00868
+ com.dnive.agvclient.activity.s$MyBroadcastReceiver
+ com.dnive.agvclient.activity.s$MyHandler
+ com.dnive.agvclient.activity.s$WifiBroadcastReceiver
+com/dnive/agvclient/BuildConfig.java
+ com.dnive.agvclient.BuildConfig
+com/dnive/agvclient/tools/TcpClient.java
+ com.dnive.agvclient.tools.TcpClient
+com/dnive/agvclient/tools/ScanFragment.java
+ com.dnive.agvclient.tools.ScanFragment
+com/dnive/agvclient/zxing/android/InactivityTimer.java
+ com.dnive.agvclient.zxing.android.InactivityTimer
+ com.dnive.agvclient.zxing.android.InactivityTimer$1
+ com.dnive.agvclient.zxing.android.InactivityTimer$InactivityAsyncTask
+ com.dnive.agvclient.zxing.android.InactivityTimer$PowerStatusReceiver
+com/dnive/agvclient/zxing/encode/CodeCreator.java
+ com.dnive.agvclient.zxing.encode.CodeCreator
+com/dnive/agvclient/zxing/android/CaptureActivityHandler.java
+ com.dnive.agvclient.zxing.android.CaptureActivityHandler
+ com.dnive.agvclient.zxing.android.CaptureActivityHandler$State
+com/dnive/agvclient/tools/IPUtils.java
+ com.dnive.agvclient.tools.IPUtils
+com/dnive/agvclient/activity/MainActivity.java
+ com.dnive.agvclient.activity.MainActivity
+ com.dnive.agvclient.activity.MainActivity$1
+ com.dnive.agvclient.activity.MainActivity$2
+ com.dnive.agvclient.activity.MainActivity$3
+ com.dnive.agvclient.activity.MainActivity$4
+ com.dnive.agvclient.activity.MainActivity$5
+ com.dnive.agvclient.activity.MainActivity$6
+ com.dnive.agvclient.activity.MainActivity$7
+ com.dnive.agvclient.activity.MainActivity$8
+ com.dnive.agvclient.activity.MainActivity$MyBroadcastReceiver
+ com.dnive.agvclient.activity.MainActivity$MyHandler
+ com.dnive.agvclient.activity.MainActivity$WifiBroadcastReceiver
+com/dnive/agvclient/tools/MyWifiManager.java
+ com.dnive.agvclient.tools.MyWifiManager
+com/dnive/agvclient/zxing/decode/DecodeFormatManager.java
+ com.dnive.agvclient.zxing.decode.DecodeFormatManager
+com/dnive/agvclient/view/OvrImageView.java
+ com.dnive.agvclient.view.OvrImageView
+ com.dnive.agvclient.view.OvrImageView$1
+ com.dnive.agvclient.view.OvrImageView$2
+ com.dnive.agvclient.view.OvrImageView$2$1
+ com.dnive.agvclient.view.OvrImageView$3
+com/dnive/agvclient/zxing/android/IntentSource.java
+ com.dnive.agvclient.zxing.android.IntentSource
+com/dnive/agvclient/zxing/camera/OpenCameraInterface.java
+ com.dnive.agvclient.zxing.camera.OpenCameraInterface
+com/dnive/agvclient/zxing/camera/CameraConfigurationManager.java
+ com.dnive.agvclient.zxing.camera.CameraConfigurationManager

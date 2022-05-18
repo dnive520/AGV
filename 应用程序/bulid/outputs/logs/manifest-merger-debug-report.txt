@@ -1,0 +1,293 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:2:1-66:12
+INJECTED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:2:1-66:12
+INJECTED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:2:1-66:12
+INJECTED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:2:1-66:12
+MERGED from [com.google.android.material:material:1.1.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/422da8022a08c1a0aa3b4da50cec604b/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/030c568634f418f7f3528b0f09984a3d/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/dnive/.gradle/caches/transforms-2/files-2.1/5c33be807e14c8130d20e0c721b656d0/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.yuzhiqiang1993:zxing:2.2.9] /home/dnive/.gradle/caches/transforms-2/files-2.1/c3960e2528b7650fbd6fe1adda30c2f8/jetified-zxing-2.2.9/AndroidManifest.xml:2:1-29:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/77c31d642b2096d7bb58e4b8679ad246/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/f3b3776ee4065a71078a217a12441731/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/f2cd2a469d0c8afd69f689598516d14f/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/dba480554af8d6c2362d411ffe625995/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/a58469314ab9b32adfa8791258acdf60/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/467cefd3574a29c397cf52aa6f66b461/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/0a1fb452411e84795f887ed82d43ac63/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/f25188e865061cebf222920103a94d95/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/d25c7faaa38c81f1d52aec843399f9ce/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/518eddb2bfc81fedba1076b2d1fc1a82/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/f47f6e91a500d1a5bcdf3b837d47b3af/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/ac6030c81bc70f9c754335056208319c/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/459709fbcd01b58b5a8112e5fec69288/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/d185d5596c79f91b6cc00be73a957ce3/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/4f6853e81741a160d2d2d9c04e955800/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/dd564911cb0512d654280b45d851e8d6/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/afc6f7d3c77546dfb0ee2e9f117dd2ba/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/3993ab6f857134ce75b72e213b8d83df/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/587867cb98ebab872744577dc5d541d5/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/4bb68d5a00a6e6eb69bd1204f315af2c/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/76d9daaf7b438d59dc1ce58f7d9cf1d1/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/66f56466e588dd8849e1c409ef90f4f5/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/c282fa82bfcd9aeb00c6b9a5efbcb342/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/404b22faf01068cda673a5860d358528/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:2:1-66:12
+INJECTED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:2:1-66:12
+INJECTED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:2:1-66:12
+	package
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:4:5-34
+		INJECTED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:2:1-66:12
+		INJECTED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:2:1-66:12
+		INJECTED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:7:5-76
+	android:name
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:7:22-73
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:8:5-10:47
+	tools:ignore
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:10:9-44
+	android:name
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:9:9-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:11:5-81
+MERGED from [com.github.yuzhiqiang1993:zxing:2.2.9] /home/dnive/.gradle/caches/transforms-2/files-2.1/c3960e2528b7650fbd6fe1adda30c2f8/jetified-zxing-2.2.9/AndroidManifest.xml:18:5-81
+MERGED from [com.github.yuzhiqiang1993:zxing:2.2.9] /home/dnive/.gradle/caches/transforms-2/files-2.1/c3960e2528b7650fbd6fe1adda30c2f8/jetified-zxing-2.2.9/AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:12:5-80
+MERGED from [com.github.yuzhiqiang1993:zxing:2.2.9] /home/dnive/.gradle/caches/transforms-2/files-2.1/c3960e2528b7650fbd6fe1adda30c2f8/jetified-zxing-2.2.9/AndroidManifest.xml:17:5-80
+MERGED from [com.github.yuzhiqiang1993:zxing:2.2.9] /home/dnive/.gradle/caches/transforms-2/files-2.1/c3960e2528b7650fbd6fe1adda30c2f8/jetified-zxing-2.2.9/AndroidManifest.xml:17:5-80
+	android:name
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:12:22-77
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:13:5-83
+	android:name
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:13:22-80
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:14:22-73
+uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
+ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:15:5-85
+	android:name
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:15:22-82
+uses-permission#android.permission.VIBRATE
+ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:16:5-66
+MERGED from [com.github.yuzhiqiang1993:zxing:2.2.9] /home/dnive/.gradle/caches/transforms-2/files-2.1/c3960e2528b7650fbd6fe1adda30c2f8/jetified-zxing-2.2.9/AndroidManifest.xml:15:5-66
+MERGED from [com.github.yuzhiqiang1993:zxing:2.2.9] /home/dnive/.gradle/caches/transforms-2/files-2.1/c3960e2528b7650fbd6fe1adda30c2f8/jetified-zxing-2.2.9/AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:16:22-63
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:17:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:18:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:19:5-64
+MERGED from [com.github.yuzhiqiang1993:zxing:2.2.9] /home/dnive/.gradle/caches/transforms-2/files-2.1/c3960e2528b7650fbd6fe1adda30c2f8/jetified-zxing-2.2.9/AndroidManifest.xml:9:5-65
+MERGED from [com.github.yuzhiqiang1993:zxing:2.2.9] /home/dnive/.gradle/caches/transforms-2/files-2.1/c3960e2528b7650fbd6fe1adda30c2f8/jetified-zxing-2.2.9/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:19:22-62
+uses-permission#android.permission.FLASHLIGHT
+ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:20:5-69
+MERGED from [com.github.yuzhiqiang1993:zxing:2.2.9] /home/dnive/.gradle/caches/transforms-2/files-2.1/c3960e2528b7650fbd6fe1adda30c2f8/jetified-zxing-2.2.9/AndroidManifest.xml:10:5-69
+MERGED from [com.github.yuzhiqiang1993:zxing:2.2.9] /home/dnive/.gradle/caches/transforms-2/files-2.1/c3960e2528b7650fbd6fe1adda30c2f8/jetified-zxing-2.2.9/AndroidManifest.xml:10:5-69
+	android:name
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:20:22-66
+application
+ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:21:5-64:19
+MERGED from [com.google.android.material:material:1.1.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/422da8022a08c1a0aa3b4da50cec604b/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/422da8022a08c1a0aa3b4da50cec604b/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/dnive/.gradle/caches/transforms-2/files-2.1/5c33be807e14c8130d20e0c721b656d0/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/dnive/.gradle/caches/transforms-2/files-2.1/5c33be807e14c8130d20e0c721b656d0/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.github.yuzhiqiang1993:zxing:2.2.9] /home/dnive/.gradle/caches/transforms-2/files-2.1/c3960e2528b7650fbd6fe1adda30c2f8/jetified-zxing-2.2.9/AndroidManifest.xml:20:5-27:19
+MERGED from [com.github.yuzhiqiang1993:zxing:2.2.9] /home/dnive/.gradle/caches/transforms-2/files-2.1/c3960e2528b7650fbd6fe1adda30c2f8/jetified-zxing-2.2.9/AndroidManifest.xml:20:5-27:19
+MERGED from [androidx.core:core:1.1.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/d185d5596c79f91b6cc00be73a957ce3/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/d185d5596c79f91b6cc00be73a957ce3/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/afc6f7d3c77546dfb0ee2e9f117dd2ba/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/afc6f7d3c77546dfb0ee2e9f117dd2ba/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/d185d5596c79f91b6cc00be73a957ce3/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:27:9-35
+	android:label
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:24:9-34
+	android:roundIcon
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:26:9-44
+	android:icon
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:23:9-39
+	android:allowBackup
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:28:9-59
+	android:networkSecurityConfig
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:25:9-69
+activity#com.dnive.agvclient.activity.UpdataActivity
+ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:29:9-31:16
+	android:name
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:30:13-52
+activity#com.dnive.agvclient.zxing.android.CaptureActivity
+ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:32:9-35:14
+	android:exported
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:33:13-58
+activity#com.dnive.agvclient.activity.MainActivity
+ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:36:9-39:14
+	android:exported
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:37:13-50
+activity#com.dnive.agvclient.activity.s
+ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:40:9-43:15
+	android:exported
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:41:13-39
+activity#com.dnive.agvclient.activity.WelcomeActivity
+ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:44:9-53:20
+	android:exported
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:46:13-36
+	android:name
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:45:13-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:48:13-52:29
+action#android.intent.action.MAIN
+ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:49:17-69
+	android:name
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:49:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:51:17-77
+	android:name
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:51:27-74
+provider#androidx.core.content.FileProvider
+ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:55:9-63:20
+	android:grantUriPermissions
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:59:13-47
+	android:authorities
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:57:13-67
+	android:exported
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:58:13-37
+	android:name
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:56:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:60:13-62:54
+	android:resource
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:62:17-51
+	android:name
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml:61:17-67
+uses-sdk
+INJECTED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml
+INJECTED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.1.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/422da8022a08c1a0aa3b4da50cec604b/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/422da8022a08c1a0aa3b4da50cec604b/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/030c568634f418f7f3528b0f09984a3d/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/030c568634f418f7f3528b0f09984a3d/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/dnive/.gradle/caches/transforms-2/files-2.1/5c33be807e14c8130d20e0c721b656d0/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/dnive/.gradle/caches/transforms-2/files-2.1/5c33be807e14c8130d20e0c721b656d0/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.yuzhiqiang1993:zxing:2.2.9] /home/dnive/.gradle/caches/transforms-2/files-2.1/c3960e2528b7650fbd6fe1adda30c2f8/jetified-zxing-2.2.9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.yuzhiqiang1993:zxing:2.2.9] /home/dnive/.gradle/caches/transforms-2/files-2.1/c3960e2528b7650fbd6fe1adda30c2f8/jetified-zxing-2.2.9/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/77c31d642b2096d7bb58e4b8679ad246/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/77c31d642b2096d7bb58e4b8679ad246/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/f3b3776ee4065a71078a217a12441731/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/f3b3776ee4065a71078a217a12441731/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/f2cd2a469d0c8afd69f689598516d14f/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/f2cd2a469d0c8afd69f689598516d14f/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/dba480554af8d6c2362d411ffe625995/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/dba480554af8d6c2362d411ffe625995/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/a58469314ab9b32adfa8791258acdf60/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/a58469314ab9b32adfa8791258acdf60/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/467cefd3574a29c397cf52aa6f66b461/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/467cefd3574a29c397cf52aa6f66b461/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/0a1fb452411e84795f887ed82d43ac63/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/0a1fb452411e84795f887ed82d43ac63/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/f25188e865061cebf222920103a94d95/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/f25188e865061cebf222920103a94d95/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/d25c7faaa38c81f1d52aec843399f9ce/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/d25c7faaa38c81f1d52aec843399f9ce/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/518eddb2bfc81fedba1076b2d1fc1a82/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/518eddb2bfc81fedba1076b2d1fc1a82/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/f47f6e91a500d1a5bcdf3b837d47b3af/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/f47f6e91a500d1a5bcdf3b837d47b3af/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/ac6030c81bc70f9c754335056208319c/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/ac6030c81bc70f9c754335056208319c/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/459709fbcd01b58b5a8112e5fec69288/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/459709fbcd01b58b5a8112e5fec69288/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/d185d5596c79f91b6cc00be73a957ce3/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/d185d5596c79f91b6cc00be73a957ce3/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/4f6853e81741a160d2d2d9c04e955800/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/4f6853e81741a160d2d2d9c04e955800/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/dd564911cb0512d654280b45d851e8d6/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/dd564911cb0512d654280b45d851e8d6/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/afc6f7d3c77546dfb0ee2e9f117dd2ba/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/afc6f7d3c77546dfb0ee2e9f117dd2ba/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/3993ab6f857134ce75b72e213b8d83df/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/3993ab6f857134ce75b72e213b8d83df/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/587867cb98ebab872744577dc5d541d5/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/587867cb98ebab872744577dc5d541d5/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/4bb68d5a00a6e6eb69bd1204f315af2c/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/4bb68d5a00a6e6eb69bd1204f315af2c/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/76d9daaf7b438d59dc1ce58f7d9cf1d1/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/76d9daaf7b438d59dc1ce58f7d9cf1d1/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/66f56466e588dd8849e1c409ef90f4f5/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/66f56466e588dd8849e1c409ef90f4f5/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/c282fa82bfcd9aeb00c6b9a5efbcb342/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/c282fa82bfcd9aeb00c6b9a5efbcb342/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/404b22faf01068cda673a5860d358528/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/dnive/.gradle/caches/transforms-2/files-2.1/404b22faf01068cda673a5860d358528/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml
+INJECTED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml
+		ADDED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dnive/Desktop/AGVClient1213/app/src/main/AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from [com.github.yuzhiqiang1993:zxing:2.2.9] /home/dnive/.gradle/caches/transforms-2/files-2.1/c3960e2528b7650fbd6fe1adda30c2f8/jetified-zxing-2.2.9/AndroidManifest.xml:12:5-60
+	android:name
+		ADDED from [com.github.yuzhiqiang1993:zxing:2.2.9] /home/dnive/.gradle/caches/transforms-2/files-2.1/c3960e2528b7650fbd6fe1adda30c2f8/jetified-zxing-2.2.9/AndroidManifest.xml:12:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.github.yuzhiqiang1993:zxing:2.2.9] /home/dnive/.gradle/caches/transforms-2/files-2.1/c3960e2528b7650fbd6fe1adda30c2f8/jetified-zxing-2.2.9/AndroidManifest.xml:13:5-70
+	android:name
+		ADDED from [com.github.yuzhiqiang1993:zxing:2.2.9] /home/dnive/.gradle/caches/transforms-2/files-2.1/c3960e2528b7650fbd6fe1adda30c2f8/jetified-zxing-2.2.9/AndroidManifest.xml:13:19-67
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.github.yuzhiqiang1993:zxing:2.2.9] /home/dnive/.gradle/caches/transforms-2/files-2.1/c3960e2528b7650fbd6fe1adda30c2f8/jetified-zxing-2.2.9/AndroidManifest.xml:16:5-68
+	android:name
+		ADDED from [com.github.yuzhiqiang1993:zxing:2.2.9] /home/dnive/.gradle/caches/transforms-2/files-2.1/c3960e2528b7650fbd6fe1adda30c2f8/jetified-zxing-2.2.9/AndroidManifest.xml:16:22-65
+activity#com.yzq.zxinglibrary.android.CaptureActivity
+ADDED from [com.github.yuzhiqiang1993:zxing:2.2.9] /home/dnive/.gradle/caches/transforms-2/files-2.1/c3960e2528b7650fbd6fe1adda30c2f8/jetified-zxing-2.2.9/AndroidManifest.xml:21:9-26:67
+	android:screenOrientation
+		ADDED from [com.github.yuzhiqiang1993:zxing:2.2.9] /home/dnive/.gradle/caches/transforms-2/files-2.1/c3960e2528b7650fbd6fe1adda30c2f8/jetified-zxing-2.2.9/AndroidManifest.xml:24:13-49
+	android:windowSoftInputMode
+		ADDED from [com.github.yuzhiqiang1993:zxing:2.2.9] /home/dnive/.gradle/caches/transforms-2/files-2.1/c3960e2528b7650fbd6fe1adda30c2f8/jetified-zxing-2.2.9/AndroidManifest.xml:26:13-64
+	android:configChanges
+		ADDED from [com.github.yuzhiqiang1993:zxing:2.2.9] /home/dnive/.gradle/caches/transforms-2/files-2.1/c3960e2528b7650fbd6fe1adda30c2f8/jetified-zxing-2.2.9/AndroidManifest.xml:23:13-59
+	android:theme
+		ADDED from [com.github.yuzhiqiang1993:zxing:2.2.9] /home/dnive/.gradle/caches/transforms-2/files-2.1/c3960e2528b7650fbd6fe1adda30c2f8/jetified-zxing-2.2.9/AndroidManifest.xml:25:13-63
+	android:name
+		ADDED from [com.github.yuzhiqiang1993:zxing:2.2.9] /home/dnive/.gradle/caches/transforms-2/files-2.1/c3960e2528b7650fbd6fe1adda30c2f8/jetified-zxing-2.2.9/AndroidManifest.xml:22:13-72
